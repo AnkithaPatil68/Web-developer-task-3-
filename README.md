@@ -1,2 +1,2 @@
-# Web-developer-task-3-
-Web developer StudentGradeCalculator 
+# java programming-task-3-
+java programming StudentGradeCalculator 
